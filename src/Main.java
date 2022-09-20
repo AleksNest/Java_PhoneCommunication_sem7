@@ -6,11 +6,11 @@ public class Main {
         Landlinephone landlinephone = new Landlinephone(2010, "12P", "Disc");
         Smartphone samsung121 = new Smartphone(2020, "Galaxy A22", 48, "Android 5.0", "1280*720", 1024, 1024);
 
-        Nokia1413.ñall();
+        Nokia1413.call();
         Nokia1413.sendSMS();
 
         landlinephone.sendFax();
-        landlinephone.ñall();
+        landlinephone.call();
 
         samsung121.call();
         samsung121.internet();

@@ -7,7 +7,7 @@ public class Landlinephone extends Phone implements Fax {        // стационарные
     }
 
     @Override
-    public void сall() {
+    public void call() {
 
     }
 

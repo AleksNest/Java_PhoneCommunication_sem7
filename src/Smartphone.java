@@ -12,9 +12,10 @@ public class Smartphone extends CellPhone implements Internet, EMail {          
     }
 
     @Override
-    public void ñall() {
-        super.ñall();
+    public void call() {
+        super.call();
     }
+
 
     @Override
     public void sendEmail() {

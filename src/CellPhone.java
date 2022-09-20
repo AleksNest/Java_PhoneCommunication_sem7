@@ -7,8 +7,8 @@ public class CellPhone extends WirelessPhone implements Textable {              
     }
 
     @Override
-    public void ñall() {
-        super.ñall();
+    public void call() {
+
     }
 
     @Override

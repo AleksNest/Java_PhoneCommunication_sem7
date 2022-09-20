@@ -10,9 +10,11 @@ public class WirelessPhone extends Phone implements Textable{                   
     }
 
     @Override
-    public void ñall() {
+    public void call() {
 
     }
+
+
 
     @Override
     public void sendSMS() {
